@@ -1,7 +1,11 @@
 # PROIECT-UNIHACK
+A unity game programmed using c#
+THIS IS NOWHERE NEAR FINISHED 
 Unihack VR project dialogue
 Welcome to VR History an interactive experience in VR aimed at immersing the user in historical eras. 
- 
+
+The story of our game 
+
 Romania entered the Second World War under pressure from Germany and promises of territorial gains after its loss of north Bukovina,baserabia, southern Dobrujea, and northern Transylvania with the Germans forcing them to join the Axis and Operation Barbarsoa with Romania having the 2nd highest amount of troops on the eastern front, this was partially caused by the abdication of King Carol II as he became an authoritarian leader before abdicating due to scandals and leaving most of his power to Marshall Ion Antonescu who swiftly crushes the Legionary Movement and becomes the fascist dictator of Romania while King Michael has his regency cabinet assembled. By 1944 with the loss at Stalingrad and the soviet offensive, the writing was on the wall with Romanian politicians trying to find a way out Marshall’s Antonescu stuborness made it harder. As such King Michael now 22 years old plots with the leaders of the opposition and arranges a coup on the 26th of August 1944, but due to certain circumstances, it was moved forward to 23 August 1944. 
  
  
