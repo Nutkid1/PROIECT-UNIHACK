@@ -28,7 +28,6 @@ The situation seems not to be in Romania's favor and I would ask you to agree to
   
 (Colonel Emilian Ionescu with a group of soldiers enters and arrests Marshal Ion Antonescu)  
   
--Good job Michael, time to assemble the new government 
  
  
  
